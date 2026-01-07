@@ -88,4 +88,47 @@ nav .menu li a{
     vertical-align: middle;
 
 }
+#about{
+    padding-top: 130px;
     
+}
+#about .about-content{
+    width: 71%;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+}
+#about .about-content {
+    padding: 131px 156px;
+    background-color: #FFF8F3;
+}
+#about .about-content .about-info{
+    display: flex;
+    justify-content: space-around;
+}
+#about .about-content .about-info .info-card h4{
+    font-size: 20px;
+    color: #757575;
+    line-height: 30px;
+}
+#about .about-content .about-info .info-card p{
+    font-size: 20px;
+    color: #474747;
+    font-weight: bold;
+    
+}
+.section-heading{
+    max-width: 827px;
+}
+.section-heading h2{
+    margin-bottom: 30px;
+    color: #181818;
+    font-size: 35px;
+    font-weight: bold;
+}
+.section-heading p{
+    font-size: 18px;
+    color: #757575;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
